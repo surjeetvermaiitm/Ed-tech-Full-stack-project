@@ -1,0 +1,16 @@
+{
+  "name": "ed-tech-full-stack-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-surjeetvermaiitm:surjeetvermaiitm/Ed-tech-Full-stack-project.git"
+  },
+  "author": "Surjeet Kumar Verma",
+  "license": "ISC"
+}
